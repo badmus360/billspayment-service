@@ -1,3 +1,5 @@
+POSTMAN COLLECTION - https://drive.google.com/file/d/1ErHQaNppJrYdJ9pn0Y0-9gfAK9lPuO21/view?usp=sharing
+
 # Bill Payment Service API Documentation
 
 ## Overview
